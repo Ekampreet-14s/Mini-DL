@@ -1,0 +1,15 @@
+{
+  "cv_5fold": {
+    "mae": 2.756,
+    "rmse": 3.398,
+    "r2": 0.655
+  },
+  "n_samples": 108,
+  "features": [
+    "crop",
+    "season",
+    "water_availability",
+    "soil_type"
+  ],
+  "target": "avg_yield_qtl_per_acre"
+}
